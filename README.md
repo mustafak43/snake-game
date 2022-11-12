@@ -4,11 +4,11 @@ It was originally created in 8th September 2018.
 
 It's a Console Application and following shows which characters are used to indicate what.
 
-->   snake's head -> #
+->   snake's head = #
 
-->   snake's body -> c
+->   snake's body = c
 
-->   wall         -> -
+->   wall         = -
 
-->   food         -> o
+->   food         = o
 
